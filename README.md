@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<!--
-**MuhammadHuzaifa091/MuhammadHuzaifa091** is # 💫 About Me:
+# 💫 About Me:
 I’m currently working on<br>Developing a real-time e-commerce website with an interactive admin panel for tracking user inputs and submissions.<br><br>I’m looking to collaborate on<br>Front-end development projects, especially those that involve WordPress or Shopify.<br>Web development projects that focus on responsive design and interactive user experiences.<br><br>I’m looking for help with<br>Exploring advanced JavaScript frameworks like React or Vue.js.<br>Improving performance and SEO for large-scale websites.<br><br>I’m currently learning<br>Advanced JavaScript and modern web development tools.<br>Best practices in UI/UX design to improve user experience across websites.<br><br>Ask me about<br>WordPress development and customization.<br>Front-end development and responsive web design.<br><br>Fun fact<br>I’m passionate about creating websites that not only look great but also offer seamless, interactive experiences for users.<br>
 
 
